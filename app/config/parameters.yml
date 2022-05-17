@@ -34,6 +34,6 @@ parameters:
     url_empresa_app: 'http://localhost.portal.fdn.com/'
     direccion_empresa_app: dadadf
     telefono_empresa_app: '767876'
-    internal_sys_url: 'http://186.151.195.29/'
+    internal_sys_url: 'http://grupofuentedelnorte.com/'
     internal_sys_pref: internal/integrations/portal/test/
     internal_sys_clave_interna: 'pf12 2,21-32kdz9¡-3(r)=dftenfrsadw3d8dk'
