@@ -1,0 +1,39 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: 3306
+    database_name: pionera_posrtal
+    database_user: root
+    database_password: root
+    mailer_transport: gmail
+    mailer_host: smtp.gmail.com
+    mailer_user: portal.fuentedelnorte.gt@gmail.com
+    mailer_password: 'system2050**'
+    locale: es
+    secret: 376d145e2d88f3ee4d6adcd29ffc5875
+    debug_toolbar: true
+    debug_redirects: false
+    use_assetic_controller: true
+    version: 1
+    days_credentials_expire: 60
+    compra_en_linea: true
+    recaptcha_public_key: 6Lc25AUTAAAAAKSCWQxTiiRAO6Nx5ca95tIR9Li6
+    recaptcha_private_key: 6Lc25AUTAAAAAK5L2sEXp-rm5NbqP7osM0ZVim_b
+    message_mailers: 'javiermarti84@gmail.com,daycar10@gmail.com'
+    facebook_client_id: '1597157600541442'
+    facebook_client_secret: cb921c1bf7ac8e12350f8fef3ca0c8e5
+    facebook_scope: 'email,basic_info,publish_actions'
+    facebook_page_url: 'https://www.facebook.com/TRANSPORTESFUENTEDELNORTE?ref=hl'
+    twitter_client_id: CO1kx2DdkWRd9noo4ChNAUfFF
+    twitter_client_secret: qoOW1nXsjZUyZWEsFJH5GOQnO2t6K9BqndfRw4NSKbQXrcajjF
+    google_client_id: 130287735672-s2icb4nqpok4ks0rjunct3ur7rhkevqs.apps.googleusercontent.com
+    google_client_secret: fLKIcPsxPZnsxT82VIwO1Q99
+    id_empresa_app: 2
+    nombre_empresa_app: 'Fuente del Norte la Pionera S.A.'
+    url_empresa_app: 'http://localhost.portal.fdn.com/'
+    direccion_empresa_app: dadadf
+    telefono_empresa_app: '767876'
+    internal_sys_url: 'http://186.151.195.29/'
+    internal_sys_pref: internal/integrations/portal/test/
+    internal_sys_clave_interna: 'pf12 2,21-32kdz9¡-3(r)=dftenfrsadw3d8dk'
