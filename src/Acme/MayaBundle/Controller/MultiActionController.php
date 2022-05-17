@@ -211,11 +211,7 @@ class MultiActionController extends Controller {
                       'http' => array(
                       'method'  => 'POST',
                       'content' => $postdata,
-                      'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
-                      "ssl"=>array(
-                        "verify_peer"=>false,
-                        "verify_peer_name"=>false,
-                    )));
+                      'header'  => "Content-type: application/x-www-form-urlencoded\r\n"));
                 $context  = stream_context_create( $options );
                 $url =  $this->container->getParameter("internal_sys_url") .
                         $this->container->getParameter("internal_sys_pref") .
