@@ -1,11 +1,12 @@
 # This file is auto-generated during the composer install
 parameters:
-    database_driver: pdo_mysql
+    database_driver: pdo_sqlsrv
+    database_type: sqlserver
     database_host: 127.0.0.1
-    database_port: 3306
-    database_name: pionera_posrtal
-    database_user: root
-    database_password: root
+    database_port: 1433
+    database_name: PORTAL.PIONERA
+    database_user: sa
+    database_password: 'sa123**'
     mailer_transport: gmail
     mailer_host: smtp.gmail.com
     mailer_user: portal.fuentedelnorte.gt@gmail.com
