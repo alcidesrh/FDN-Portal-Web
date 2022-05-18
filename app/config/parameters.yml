@@ -32,7 +32,7 @@ parameters:
     google_client_secret: fLKIcPsxPZnsxT82VIwO1Q99
     id_empresa_app: 2
     nombre_empresa_app: 'Fuente del Norte la Pionera S.A.'
-    url_empresa_app: 'http://localhost.portal.fdn.com/'
+    url_empresa_app: 'http://transportesfuentedelnorte.com/'
     direccion_empresa_app: dadadf
     telefono_empresa_app: '767876'
     internal_sys_url: 'http://grupofuentedelnorte.com/'
